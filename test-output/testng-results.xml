@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26403" started-at="2020-06-23T13:14:51 IST" finished-at="2020-06-23T13:15:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26403" started-at="2020-06-23T13:14:51 IST" finished-at="2020-06-23T13:15:18 IST">
+      <class name="com.dyt.ors.smoke.SmokeTestCases">
+        <test-method status="PASS" signature="setupReport()[pri:0, instance:com.dyt.ors.smoke.SmokeTestCases@56aac163]" name="setupReport" is-config="true" duration-ms="368" started-at="2020-06-23T13:14:51 IST" finished-at="2020-06-23T13:14:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:com.dyt.ors.smoke.SmokeTestCases@56aac163]" name="launchBrowser" is-config="true" duration-ms="14618" started-at="2020-06-23T13:14:51 IST" finished-at="2020-06-23T13:15:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.dyt.ors.smoke.SmokeTestCases.TC001_addMainCategory()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="TC001_addMainCategory()[pri:0, instance:com.dyt.ors.smoke.SmokeTestCases@56aac163]" name="TC001_addMainCategory" duration-ms="11184" started-at="2020-06-23T13:15:06 IST" finished-at="2020-06-23T13:15:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_addMainCategory -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.dyt.ors.smoke.SmokeTestCases@56aac163]" name="closeBrowser" is-config="true" duration-ms="550" started-at="2020-06-23T13:15:17 IST" finished-at="2020-06-23T13:15:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="flushReportAndOpen()[pri:0, instance:com.dyt.ors.smoke.SmokeTestCases@56aac163]" name="flushReportAndOpen" is-config="true" duration-ms="10727" started-at="2020-06-23T13:15:18 IST" finished-at="2020-06-23T13:15:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReportAndOpen -->
+      </class> <!-- com.dyt.ors.smoke.SmokeTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
